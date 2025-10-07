@@ -1,4 +1,4 @@
-# 🎞 Film Covers — Inspired Re-creations for Photon Museum
+# Film Covers — Inspired Re-creations for Photon Museum
 
 A curated collection of **film cover designs** recreated with a unified visual language for the **Photon Museum** project. These covers are **inspired by** the classic aesthetics of analog film packaging (Kodak, Fujifilm, etc.) and reinterpreted through a minimal, modern lens for digital archiving and app integration.
 
@@ -20,7 +20,7 @@ All covers here are **original re-creations**, not scans or official reproductio
 
 ---
 
-## 🧩 Included Films
+## 🎞 Included Films
 
 | Brand | Series | ISO | Class | Type
 |--------|---------|-----|-----|-----
@@ -45,6 +45,18 @@ These materials are provided **for educational, archival, and non-commercial pur
 
 If you are a rights holder and wish to request modification or removal of any design,  
 please contact me via GitHub or email.
+
+---
+
+## 🧑‍🎨 Make Your Covers
+
+Please refer to the [Design Guide](DESIGN_GUIDE.md) and download the [Template](templates/film_cover_design_template.ai) to start.
+
+---
+
+## 👐 Contribute
+
+If you want to contribute to this repository, please...
 
 ---
 
