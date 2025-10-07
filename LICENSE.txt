@@ -1,0 +1,50 @@
+Copyright (c) 2025 Sean Wu
+All Rights Reserved.
+
+---
+
+FILM COVER RECREATIONS LICENSE NOTICE
+--------------------------------------
+
+The film cover designs contained in this repository are ORIGINAL RECREATIONS created by Sean Wu
+for visual consistency within the Photon Museum project.  
+They are INSPIRED BY the visual identity of classic film packaging from brands such as Kodak and Fujifilm,
+but are NOT direct reproductions of any original packaging materials.
+
+All trademarks, brand names, and product titles referenced or depicted remain the property of
+their respective owners. No affiliation or endorsement is implied.
+
+These materials are provided for EDUCATIONAL, ARCHIVAL, and NON-COMMERCIAL purposes only.
+
+---
+
+LICENSE FOR ORIGINAL WORKS
+--------------------------
+
+Except for brand names and trademarks belonging to their owners,
+all original designs, layouts, compositions, and metadata within this repository
+are licensed under the Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license,
+  and indicate if changes were made.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **No additional restrictions** — You may not apply legal terms or technological
+  measures that legally restrict others from doing anything the license permits.
+
+Full license text:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+---
+
+CONTACT
+-------
+
+If you are a rights holder and believe that any material here should be modified or removed,
+please contact the author through GitHub or via email.
+
+Sean Wu
