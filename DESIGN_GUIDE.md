@@ -35,10 +35,12 @@ You can include a small `.json` file with each cover to describe the film proper
 ```json
 {
   "brand": "Kodak",
+  "family": "Professional",
   "series": "Portra",
   "iso": 400,
-  "type": "Color Negative",
   "class": "135",
+  "type": "Color Negative",
+  "process": "C-41",
   "designer": "Your Name",
-  "notes": "Inspired by the 2016 packaging design"
+  "notes": "Inspired by ..."
 }
