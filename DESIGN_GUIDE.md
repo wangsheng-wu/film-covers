@@ -42,5 +42,6 @@ You can include a small `.json` file with each cover to describe the film proper
   "type": "Color Negative",
   "process": "C-41",
   "designer": "Your Name",
-  "notes": "Inspired by ..."
+  "notes": "Inspired by ...",
+  "file_name": "kodak_portra_400_135.png"
 }
