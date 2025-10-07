@@ -36,15 +36,14 @@ All covers here are **original re-creations**, not scans or official reproductio
 
 ## 🎨 Design Acknowledgement
 
-All covers are **original re-creations by Sean Wu**, made for visual consistency within the Photon Museum app.  
+All covers (in the `/official` folder) are **original re-creations by Sean Wu**, made for visual consistency within the Photon Museum app.  
 They are **inspired by** the design language of classic film brands, but **not direct reproductions**.
 
 All brand names and logos remain the trademarks of their respective owners.  
 No affiliation or endorsement is implied.  
 These materials are provided **for educational, archival, and non-commercial purposes only**.
 
-If you are a rights holder and wish to request modification or removal of any design,  
-please contact me via GitHub or email.
+If you are a rights holder and wish to request modification or removal of any design, please contact me via GitHub or email.
 
 ---
 
