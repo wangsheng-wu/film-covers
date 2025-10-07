@@ -2,7 +2,7 @@
 
 This document provides format and design guidelines for creating new **film cover designs** compatible with the *Photon Museum* app. It ensures visual consistency and smooth integration across user-contributed designs.
 
-You are encouraged to download our [template](templates/film_cover_design_guide.ai) to start your design.
+You are encouraged to download our [template](templates/film_cover_design_template.ai) to start your design.
 
 ---
 
