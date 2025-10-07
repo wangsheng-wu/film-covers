@@ -22,7 +22,7 @@ You are encouraged to download our [template](templates/film_cover_design_templa
 
 ## 🎨 2. Design Principles
 
-To maintain consistency with the built-in film covers, please follow these general design rules:
+To maintain consistency with the our provided film covers, please follow these general design rules:
 
 1. **Minimal reinterpretation** — inspired by the real packaging, but simplified and unified in style.
 2. **Non-commercial intent** — all designs are shared for educational and archival use only.
