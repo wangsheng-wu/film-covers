@@ -3,7 +3,7 @@
 A curated collection of **film cover designs** recreated with a unified visual language for the **Photon Museum** project. These covers are **inspired by** the classic aesthetics of analog film packaging (Kodak, Fujifilm, etc.) and reinterpreted through a minimal, modern lens for digital archiving and app integration.
 
 <p align="center">
-  <img src="assets/film_cover_design_guide_for_pm.png" alt="Film Cover Design Guide">
+  <img src="assets/preview.png" alt="Preview">
 </p>
 
 ---
@@ -25,7 +25,7 @@ All covers here are **original re-creations**, not scans or official reproductio
 | Brand | Series | ISO | Class | Type
 |--------|---------|-----|-----|-----
 | Fujifilm | Velvia 50 / 100 | 50 / 100 | 135 | Color Reversal
-| Kodak | Ektachrome 100 | 100 | 135 / 120 | Color Reversal
+| Kodak | Ektachrome 100 | 100 | 135 / 120 / 4x5 | Color Reversal
 | Kodak | Portra 160 / 400 / 800 | 160 / 400 / 800 | 135 / 120 | Color Negative
 | Kodak | Gold / ColorPlus / Ultramax | 200 / 400 | 135 | Color Negative
 | Fujifilm | Natura 1600 | 1600 | 135 | Color Negative
@@ -50,6 +50,10 @@ If you are a rights holder and wish to request modification or removal of any de
 ## 🧑‍🎨 Make Your Covers
 
 Please refer to the [Design Guide](DESIGN_GUIDE.md) and download the [Template](templates/film_cover_design_template.ai) to start.
+
+<p align="center">
+  <img src="assets/film_cover_design_guide_for_pm.png" alt="Film Cover Design Guide">
+</p>
 
 ---
 
