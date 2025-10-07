@@ -4,6 +4,10 @@ This document provides format and design guidelines for creating new **film cove
 
 You are encouraged to download our [template](templates/film_cover_design_template.ai) to start your design.
 
+<p align="center">
+  <img src="assets/film_cover_design_guide_for_pm.png" alt="Film Cover Design Guide">
+</p>
+
 ---
 
 ## 🧱 1. File Format
