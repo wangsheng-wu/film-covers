@@ -214,5 +214,89 @@
         "designer": "Sean Wu",
         "notes": "",
         "file_name": "kodak_colorplus_200_135.png"
+    },
+    {
+        "brand": "Polaroid",
+        "family": "",
+        "series": "Color i-Type",
+        "iso": 640,
+        "class": "Polaroid i-Type",
+        "type": "Instant Film",
+        "process": "None",
+        "designer": "Sean Wu",
+        "notes": "",
+        "file_name": "polaroid_color_itype.png"
+    },
+    {
+        "brand": "Polaroid",
+        "family": "",
+        "series": "B&W i-Type",
+        "iso": 640,
+        "class": "Polaroid i-Type",
+        "type": "Instant Film",
+        "process": "None",
+        "designer": "Sean Wu",
+        "notes": "",
+        "file_name": "polaroid_b&w_itype.png"
+    },
+    {
+        "brand": "Polaroid",
+        "family": "",
+        "series": "Color SX-70",
+        "iso": 640,
+        "class": "Polaroid SX-70",
+        "type": "Instant Film",
+        "process": "None",
+        "designer": "Sean Wu",
+        "notes": "",
+        "file_name": "polaroid_color_sx70.png"
+    },
+    {
+        "brand": "Polaroid",
+        "family": "",
+        "series": "B&W SX-70",
+        "iso": 640,
+        "class": "Polaroid SX-70",
+        "type": "Instant Film",
+        "process": "None",
+        "designer": "Sean Wu",
+        "notes": "",
+        "file_name": "polaroid_b&w_sx70.png"
+    },
+    {
+        "brand": "Polaroid",
+        "family": "",
+        "series": "Color 600",
+        "iso": 640,
+        "class": "Polaroid 600",
+        "type": "Instant Film",
+        "process": "None",
+        "designer": "Sean Wu",
+        "notes": "",
+        "file_name": "polaroid_color_600.png"
+    },
+    {
+        "brand": "Polaroid",
+        "family": "",
+        "series": "B&W 600",
+        "iso": 640,
+        "class": "Polaroid 600",
+        "type": "Instant Film",
+        "process": "None",
+        "designer": "Sean Wu",
+        "notes": "",
+        "file_name": "polaroid_b&w_600.png"
+    },
+    {
+        "brand": "Polaroid",
+        "family": "",
+        "series": "Color Go",
+        "iso": 640,
+        "class": "Polaroid Go",
+        "type": "Instant Film",
+        "process": "None",
+        "designer": "Sean Wu",
+        "notes": "",
+        "file_name": "polaroid_color_go.png"
     }
 ]
