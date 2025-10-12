@@ -3,7 +3,7 @@
 A curated collection of **film cover designs** recreated with a unified visual language for the **Photon Museum** project. These covers are **inspired by** the classic aesthetics of analog film packaging (Kodak, Fujifilm, etc.) and reinterpreted through a minimal, modern lens for digital archiving and app integration.
 
 <p align="center">
-  <img src="assets/preview.png" alt="Preview2">
+  <img src="assets/preview2.png" alt="Preview2">
 </p>
 
 ---
